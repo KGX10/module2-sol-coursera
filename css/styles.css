@@ -1,9 +1,9 @@
-body{
-	background-color: #333333;
-	background-repeat: no-repeat;
+body{ 
+	background-color: #333333; 
+	background-repeat: no-repeat; 
 	color:#bfbfbf;
 	font-family: 'ABeeZee';font-size: 16px;
-}
+	}
 
 *{
 	box-sizing: border-box;
@@ -22,9 +22,8 @@ div > article{
 	top: 0px;
 	right: 0px;
 	padding: 5px 30px 5px 30px;
-	border-bottom: 2px #bfbfbf solid;
-	border-left:2px #bfbfbf solid;
-	background-color: #add957;
+	border-bottom: 1px #bfbfbf solid;
+	border-left:1px #bfbfbf solid;
 	color:black;
 }
 .text{
@@ -34,7 +33,7 @@ div > article{
 	width:100%;
 }
 .content{
-	border: 1px #add957 solid;
+	border: 1px #bfbfbf solid;
 	position: relative;
 }
 
